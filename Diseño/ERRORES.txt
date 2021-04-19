@@ -1,0 +1,5 @@
+Errores a solucionar en el futuro:
+
+1. Los pads y drill holes de las tiras de pines hembra son pequeños
+2. Los Zocalos son más grandes que el tamaño estándar
+3. Las pistas podrian y deberian ser mas gruesas

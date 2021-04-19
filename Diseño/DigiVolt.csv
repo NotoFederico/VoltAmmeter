@@ -1,0 +1,24 @@
+Item;Qty;Reference(s);Value;Footprint;;;;;;Available
+1;3;AP1, EA1, EV1;Conn_01x02;Connectors_Terminal_Blocks:TerminalBlock_Altech_AK300-2_P5.00mm;;;;;;Yes
+2;5;C2, C8, C9, C10, C11;0.1u;Capacitors_SMD:C_1206_HandSoldering;;;;;;No
+3;2;C3, C5;0.022u;Capacitors_SMD:C_1206_HandSoldering;;;;;;No
+4;1;C4;0.22u;Capacitors_SMD:C_1206_HandSoldering;;;;;;No
+5;1;C6;3.9n;Capacitors_SMD:C_1206_HandSoldering;;;;;;No
+6;1;J4;Conn_01x12_Female;Socket_Strips:Socket_Strip_Straight_1x12_Pitch2.54mm;;;;;;Yes
+7;1;J5;Conn_01x10_Female;Socket_Strips:Socket_Strip_Straight_1x10_Pitch2.54mm;;;;;;Yes
+8;2;J6, J7;Conn_01x27_Female;Socket_Strips:Socket_Strip_Straight_1x27_Pitch2.54mm;;;;;;No
+9;3;JP1, JP2, JP3;Jumper;Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;;;;;;Yes
+10;1;R1;15k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+11;1;R2;1k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+12;1;R3;0R;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+13;1;R4;150k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+14;2;R5, R6;1.2k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+15;2;R7, R8;8.2k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+16;2;R9, R10;100;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+17;1;R11;12k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+18;2;R12, R13;10k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+19;1;R14;100k;Resistors_SMD:R_1206_HandSoldering;;;;;;No
+20;1;RV1;POT;Potentiometers:Potentiometer_Trimmer_Bourns_3296W;;;;;;No
+21;1;Shunt1;0.05;SMD4527:SMD-1206_Pol;;;;;;No
+22;1;U1;MC33078;Housings_DIP:DIP-8_W10.16mm_LongPads;;;;;;No
+23;1;U3;LM358;Housings_DIP:DIP-8_W10.16mm_LongPads;;;;;;No

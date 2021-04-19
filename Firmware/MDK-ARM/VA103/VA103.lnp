@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"va103\startup_stm32f103xb.o"
+"va103\main.o"
+"va103\stm32f1xx_it.o"
+"va103\stm32f1xx_hal_msp.o"
+"va103\stm32f1xx_hal_gpio_ex.o"
+"va103\stm32f1xx_hal_i2c.o"
+"va103\stm32f1xx_hal_tim.o"
+"va103\stm32f1xx_hal_tim_ex.o"
+"va103\stm32f1xx_hal.o"
+"va103\stm32f1xx_hal_rcc.o"
+"va103\stm32f1xx_hal_rcc_ex.o"
+"va103\stm32f1xx_hal_gpio.o"
+"va103\stm32f1xx_hal_dma.o"
+"va103\stm32f1xx_hal_cortex.o"
+"va103\stm32f1xx_hal_pwr.o"
+"va103\stm32f1xx_hal_flash.o"
+"va103\stm32f1xx_hal_flash_ex.o"
+"va103\system_stm32f1xx.o"
+"va103\lcd.o"
+"va103\fuente_va.o"
+"va103\fuente_th.o"
+--library_type=microlib --strict --scatter "VA103\VA103.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "VA103.map" -o VA103\VA103.axf
