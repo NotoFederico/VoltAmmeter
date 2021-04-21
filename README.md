@@ -52,3 +52,6 @@ Está en curso una segunda versión con tecnologia SMD y se está estudiando imp
 
 ---
 # 5. Licence
+
+Pong Game is licensed under the GNU General Public License version 3.
+
